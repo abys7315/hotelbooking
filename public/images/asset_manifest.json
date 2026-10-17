@@ -1,0 +1,52 @@
+{
+  "hotelName": "The Aurora Resort & Spa",
+  "generatedAt": "2026-10-17",
+  "assets": {
+    "hero": {
+      "primary": "/images/hero_aerial.jpg",
+      "thumbnail": "/images/01_aerial_resort.jpg",
+      "alt": "Panoramic aerial view of The Aurora Resort & Spa perched on coastal cliffs"
+    },
+    "entrance": {
+      "primary": "/images/resort_entrance.jpg",
+      "thumbnail": "/images/02_resort_entrance.jpg",
+      "alt": "Grand illuminated entrance with reflecting pools and tropical palm trees"
+    },
+    "lobby": {
+      "primary": "/images/grand_lobby.jpg",
+      "thumbnail": "/images/03_lobby.jpg",
+      "alt": "Vaulted cathedral wood ceiling and sea view lounge in the grand lobby"
+    },
+    "stay": {
+      "bedroom": "/images/04_room_bedroom.jpg",
+      "balcony": "/images/05_room_balcony.jpg",
+      "suitePanoramic": "/images/room_stay_ref.jpg",
+      "alt": "Ocean View Suite with private balcony and sunset view"
+    },
+    "amenities": {
+      "infinityPool": "/images/infinity_pool.jpg",
+      "spa": "/images/08_spa_wellness.jpg",
+      "beach": "/images/09_beach.jpg",
+      "nightResort": "/images/10_night_resort.jpg",
+      "thumbnailPool": "/images/06_infinity_pool.jpg",
+      "alt": "Cliffside infinity pool and world-class resort amenities"
+    },
+    "dining": {
+      "primary": "/images/fine_dining.jpg",
+      "thumbnail": "/images/07_dining_food.jpg",
+      "alt": "Michelin-inspired artisanal seafood dish with fine wine pairing"
+    },
+    "gallery": [
+      { "id": "1", "src": "/images/scene_col_1.jpg", "title": "Arrival", "caption": "The first glimpse of paradise from above" },
+      { "id": "2", "src": "/images/scene_col_2.jpg", "title": "Porte-Cochère", "caption": "Where warmth and architectural grace meet" },
+      { "id": "3", "src": "/images/scene_col_3.jpg", "title": "Sanctuary Lounge", "caption": "Double-height cathedral wood ceilings" },
+      { "id": "4", "src": "/images/scene_col_4.jpg", "title": "Ocean Suites", "caption": "Unobstructed vistas of the sapphire horizon" },
+      { "id": "5", "src": "/images/scene_col_5.jpg", "title": "Azure Horizon", "caption": "Infinity pool blending into the Pacific sunset" }
+    ],
+    "booking": {
+      "backdrop": "/images/booking_sunset.jpg",
+      "map": "/images/location_map.jpg",
+      "alt": "Sunset over the coastal sanctuary"
+    }
+  }
+}
